@@ -14,6 +14,7 @@ Please see the [sample app](sample/src/main/java/com/yarolegovich/slidingrootnav
 
 ## Wiki
 #### Usage:
+d
  1. Create your content_view.xml ([example](sample/src/main/res/layout/activity_main.xml)) or construct a `View` programatically.
  2. Set the content view (for example, using `setContentView` in your activity).
  3. Create your menu.xml ([example](sample/src/main/res/layout/menu_left_drawer.xml)) or construct a `View` programatically.
